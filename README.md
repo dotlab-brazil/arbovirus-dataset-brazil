@@ -6,4 +6,4 @@ The data set has a dictionary that can be seen in the links below, in Portuguese
 - [common and sociodemographic data](http://portalsinan.saude.gov.br/images/documentos/Agravos/Notificacao_Individual/DIC_DADOS_NET---Notificao-Individual_rev.pdf)
 - [clinical and laboratory data](http://portalsinan.saude.gov.br/images/documentos/Agravos/Dengue/DIC_DADOS_ONLINE.pdf)
 
-The data set resulting from this project can be found [at this link](https://data.mendeley.com/datasets/2d3kr8zynf/1).
+The data set resulting from this project can be found [at this link](https://data.mendeley.com/datasets/2d3kr8zynf/2).
